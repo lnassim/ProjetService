@@ -1,0 +1,17 @@
+.test {
+
+	background-color: white;
+}
+
+.zone{
+	width: 20%;
+}
+
+.card-deck{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.card{
+	width: 100px;
+}
